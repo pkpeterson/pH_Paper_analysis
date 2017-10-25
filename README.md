@@ -1,6 +1,6 @@
 # pH_Paper_analysis
 
-A set of matlab scripts and functions to analyse used pH indicator paper and report a pH. This code was developed in collaboration with Rebecca Craig and Andrew Ault.
+A matlab script to analyse used pH indicator paper and report a pH. This code was developed in collaboration with Rebecca Craig and Andrew Ault.
 
 This script is designed to work with pictures of both the used indicator paper and the pH scale. An example image is provided in this repository. The script first allows the user to select an image (filename). The user is then prompted to outline the pH scale, and then the region of the indicator paper to be analysed. The script will then generate a calibration curve and report the pH of the region. The script has two outputs, which appear in the directory where the script is run.
 
