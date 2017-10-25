@@ -13,3 +13,8 @@ Dependencies: Matlab Image Processing Toolbox, export_fig (https://github.com/al
 
 
 This code is all provided as-is and no blame or responsibility for anything will be taken. If this code is used for the purposes of scientific publication, this code should be cited.
+
+
+
+[![DOI](https://zenodo.org/badge/108300297.svg)](https://zenodo.org/badge/latestdoi/108300297)
+
